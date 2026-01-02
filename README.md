@@ -86,13 +86,16 @@ pip install -r requirements.txt
 
 ### 1. Environment Variables (.env)
 
-All sensitive information must be stored in environment variables and must NOT be hard-coded in the source code. This includes:All sensitive information must be stored in environment variables and must NOT be hard-coded in the source code. This includes:
-* Reddit API
-* YouTube Data API
-* OpenAI / Gemini / DeepSeek / Zhipu
-* Database credentials
-* Redis connection settings
+All sensitive information must be stored in environment variables and must **NOT** be hard-coded in the source code. This includes:
+
+- [Reddit API](https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fprefs%2Fapps)
+- [YouTube Data API](https://console.cloud.google.com/)
+- OpenAI / Gemini / DeepSeek / Zhipu API Keys
+- Database credentials
+- Redis connection settings
+
 ---
+
 
 ## How to Use
 

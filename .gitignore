@@ -1,0 +1,22 @@
+# ===== Secrets =====
+.env
+
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ===== Streamlit =====
+.streamlit/
+
+# ===== Virtual Env =====
+venv/
+.envrc
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Logs =====
+*.log

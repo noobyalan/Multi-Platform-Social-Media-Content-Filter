@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai
+praw
+google-api-python-client
+youtube-transcript-api
+mysql-connector-python
+redis
+python-dotenv

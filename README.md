@@ -1,5 +1,7 @@
 # Multi-Platform Social Media Content Filter
 
+<img width="2522" height="979" alt="ScreenShot_2026-01-02_201605_082" src="https://github.com/user-attachments/assets/d4b6fb5e-2769-427c-aac9-da1698c38538" />
+
 ## Project Overview
 
 This project is a **Streamlit-based multi-platform social media content collection and analysis system** designed to help users efficiently discover, filter, analyze, and organize high-impact content from platforms such as **Reddit** and **YouTube**.
